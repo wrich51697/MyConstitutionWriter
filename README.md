@@ -24,7 +24,7 @@ The project consists of the following main components:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/MyConstitutionWriter.git
+    git clone https://github.com/wrich51697/MyConstitutionWriter.git
     cd MyConstitutionWriter
     ```
 
